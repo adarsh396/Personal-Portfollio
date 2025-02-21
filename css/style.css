@@ -399,6 +399,7 @@ span {
 }
 
 .portfolio-container .portfolio-box {
+    height:300px;
     position: relative;
     display: flex;
     border-radius: 2rem;
@@ -408,6 +409,7 @@ span {
 
 .portfolio-box img {
     width: 100%;
+    
     transition: .5s ease;
 }
 
@@ -438,11 +440,11 @@ span {
 }
 
 .portfolio-layer h4 {
-    font-size: 3rem;
+    font-size: 2.1rem;
 }
 
 .portfolio-layer p {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     margin: .3rem 0 1rem;
 }
 
